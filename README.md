@@ -1,2 +1,17 @@
 # Library
-This is simple library management system that helps librarian and readers keep track of books available as well as the borrowed date, description and such.
+This is simple library management system that helps librarian and readers to keep track of books available as well as the borrowed date, description and such.
+
+Features of the LMS.
+
+Track books: Allows both student and librarian to check who currently possesses the
+books.
+
+Return: Allows a student to return a book to the library.
+
+Place Hold: prevent students from requesting the book again if the book is already
+borrowed
+
+Acquire Material: Allows the librarian to acquire donated materials for the library's
+collection.
+
+Process Return: Allows the student to process the return of a book and update the records.
